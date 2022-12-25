@@ -1,3 +1,7 @@
+RF Cookbook
+
+Below git repos containing useful robot framework recipes to get more hands-on with RF.
+
 https://github.com/alapanme/Robot-Framework
 https://github.com/adrianyorke/robotframework-cookbook
 https://github.com/randomsync/robotframework-mqttlibrary
@@ -12,13 +16,10 @@ https://github.com/Huanxin-leolil/request_pabot
 https://github.com/nobiki/4shamo
 https://github.com/edthedev/Learn_RobotFramework_IllinoisPTR
 
-
-
-*** certification ***
+**_ certification _**
 
 https://github.com/KACHIDA/certification_level2_robot
 
-
-*** Imp ****
+**\* Imp \*\***
 
 https://github.com/ppodgorsek/docker-robot-framework/blob/4bf8add49289a70ef0025a422dda1b7b08475d95/README.md
